@@ -3,7 +3,7 @@
 </div>
 
 
-### Hi there 👋
+### Hi there 👋 I'm Nim
 
 <!--
 **babydev2023/babydev2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
