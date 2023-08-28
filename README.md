@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 class=text-red>
+<div align="center>
 ### Hi there 👋 🌱 I’m currently learning ...
-</h1>
+</dev>
 
 <!--
 **babydev2023/babydev2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
